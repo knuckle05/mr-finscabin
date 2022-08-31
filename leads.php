@@ -26,8 +26,9 @@ require_once ("operation.php");
     <div class="container text-center">
          <!--Navigation -->
      <div style="margin: 30px; margin-top: 50px;">  <center> 
-      <h1 >   Fins Cabin Workshop </h1> 
-      <h3> Event Driven Architecture in Financial Services <h3> 
+   <img src="iaah_fr.jpeg"> 
+      <h1 >Salesforce + Kafka: Event Driven Architecture Demo </h1> 
+      <!-- <h3>  in Financial Services <h3> -->
       <img src="wide-characters.jpg"> 
       </div>  </center>
      <center> <div style="margin: 30px; margin-top: 20px;"> 
