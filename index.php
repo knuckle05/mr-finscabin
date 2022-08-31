@@ -24,7 +24,7 @@
       <img src="iaah_fr.jpg"> 
       <h1 >Salesforce + Kafka: Event Driven Architecture Demo </h1> 
       <!-- <h3>  in Financial Services <h3> -->
-      <img src="wide-characters.jpg"> 
+      <img src="wide-characters.jpeg"> 
       </div>  </center>
      <center> <div style="margin: 30px; margin-top: 20px;"> 
     <a class="more" href="index.php">Home </a> &nbsp;&nbsp;&nbsp; <a class="more" href="leads.php">Leads </a> &nbsp;&nbsp;&nbsp;<a class="more" href="customers.php">Customers</a> 
