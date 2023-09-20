@@ -1,6 +1,6 @@
 # finscabin
 
-<a target="_blank" href="https://heroku.com/deploy?template=https://github.com/lightningexperience/finscabin">
+<a target="_blank" href="https://heroku.com/deploy?template=https://github.com/knuckle05/mr-finscabin">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
