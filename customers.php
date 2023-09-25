@@ -31,7 +31,7 @@ if ($con->connect_error) {
     <div class="container text-center">
                <!--Navigation -->
      <div style="margin: 30px; margin-top: 50px;">  <center> 
-    <img src="iaah_fr.jpeg"> 
+   <!-- <img src="iaah_fr.jpeg"> -->
       <h1 >Salesforce + Kafka: Event Driven Architecture Demo </h1> 
       <!-- <h3>  in Financial Services <h3> -->
       <img src="wide-characters.jpg"> 
